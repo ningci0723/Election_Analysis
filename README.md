@@ -6,7 +6,7 @@ The purpose of this project is to help with an election audit for Colorado Board
 
 ## Election-Audit Results
 
-Based on the election analysis results, we can find the following results.
+Based on the election analysis results, we can find the following conclusion.
 
 1. There are 369,711 votes casted in this election.
 2. The list of number of votes and percentage of total votes for each county can be find below:
@@ -23,5 +23,7 @@ Based on the election analysis results, we can find the following results.
     * Winning Vote Count: 272,892
     * Winning Percentage:  73.8%
 
+Please use below results for the reference.
+![Election Result](https://github.com/ningci0723/Election_Analysis/blob/main/election_results.png)
 ## Election-Audit Summary
-This script can be used with some modifications or updates for other election in the future. The first example is that we may deeper the county into the cities and find out which city has the most important effect on the election. The second example is that we could also provide analysis on the voters to figure out the which candidate is most popular in which kind of the gender and age voters. 
+This script can be used with some modifications or updates for other election in the future. The first example is that we may deeper the county into the cities and find out which city has the most important effect on the election. The second example is that we could also provide analysis on the voters to figure out the which candidate is most popular in which kind of the gender and age voters.
